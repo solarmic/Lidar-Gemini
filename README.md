@@ -1,5 +1,5 @@
 # **Real-Time Performer Tracking with LIDAR**
-
+Codigo provisional aún no funcional del todo
 ## **Descripción**
 
 Este proyecto implementa un sistema de seguimiento en tiempo real para un único intérprete en un escenario de artes escénicas. Utiliza un sensor **RPLIDAR A1** conectado a una **Raspberry Pi** para detectar la posición de la persona, la procesa para filtrar ruido y, finalmente, envía las coordenadas normalizadas (x, y) a través de UDP a un software de control como **Max/MSP**.
